@@ -1,0 +1,15 @@
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\bin\Debug\net6.0\prova-3bimestre.exe
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\bin\Debug\net6.0\prova-3bimestre.deps.json
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\bin\Debug\net6.0\prova-3bimestre.runtimeconfig.json
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\bin\Debug\net6.0\prova-3bimestre.dll
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\bin\Debug\net6.0\prova-3bimestre.pdb
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.AssemblyInfoInputs.cache
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.AssemblyInfo.cs
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.csproj.CoreCompileInputs.cache
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.dll
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\refint\prova-3bimestre.dll
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.pdb
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\prova-3bimestre.genruntimeconfig.cache
+C:\Users\2022102020019\source\repos\prova-3bimestre\prova-3bimestre\obj\Debug\net6.0\ref\prova-3bimestre.dll
